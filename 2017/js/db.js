@@ -1,5 +1,9 @@
 var caccomp_bd = {}
 
+caccomp_bd["docs"] = {
+
+}
+
 caccomp_bd["dias"] = {
     "12/04/2017":{
         "palestras":[],
@@ -13,7 +17,6 @@ caccomp_bd["dias"] = {
         "palestras":[],
         "minicursos":[]
     }
-
 }
 
 caccomp_bd["pessoas"] = {
@@ -23,13 +26,8 @@ caccomp_bd["pessoas"] = {
         "curso":"Ciência da Computação",
         "github":"paulorobertocruz",        
         "facebook":"",
-        "image-perfil":"http://secompuft.github.io/bd/2017/img/pessoa0.png",
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/paulo.jpg",
         "minicursos":["0"],
         "palestras":["0"]
-    },
-    "1":{
-        "nome":"Adelmo Junior Teixeira",
-        "email":"adelmo@gmail.com",
-        "github":"noblerealm"
     }
 }

@@ -29,5 +29,15 @@ caccomp_bd["pessoas"] = {
         "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/paulo.jpg",
         "minicursos":["0"],
         "palestras":["0"]
+    },
+    "1":{                      
+        "nome":"Adelmo Junior",
+        "email":"adelmo@gmail.com",
+        "curso":"Ciência da Computação",
+        "github":"adelmo",        
+        "facebook":"",
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/paulo.jpg",
+        "minicursos":["0"],
+        "palestras":["0"]
     }
 }

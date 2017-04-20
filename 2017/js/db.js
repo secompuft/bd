@@ -6,16 +6,17 @@ caccomp_bd["docs"] = {
 
 caccomp_bd["dias"] = {
     "12/04/2017":{
-        "palestras":[],
-        "minicursos":[]
-    },
-    "13/04/2017":{
-        "palestras":[],
-        "minicursos":[]
-    },
-    "14/04/2017":{
-        "palestras":[],
-        "minicursos":[]
+        [
+            {
+                "horario_inicio":"",
+                "horario_fim":"",
+                "titulo":"",
+                "pessoas":["0"],
+                "periodo":"",
+                "palestras":false,
+                "minicursos":false
+            }
+        ]
     }
 }
 

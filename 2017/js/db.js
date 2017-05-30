@@ -348,7 +348,7 @@ caccomp_bd["pessoas"] = {
         "github":"https://github.com/adelmo",        
         "facebook":false,
         "lattes":false,
-        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/adelmo.jpg",
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
         "minicursos":["0"],
         "palestras":["0"],
         "evento":"secomp"

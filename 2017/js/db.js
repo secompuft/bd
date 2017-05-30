@@ -282,8 +282,50 @@ caccomp_bd["dias"] = {
                 "pessoas":["0"],
                 "periodo":"Noite",
                 "palestras":false,
-                "minicursos":true
+                "minicursos":false
             }
+    ],
+    "Minicursos":[
+        {
+            "horario_inicio":"14:00:00",
+            "horario_fim":"18:00:00",
+            "titulo":"GNU/Linux + Git",
+            "evento":"secomp",
+            "pessoas":["1"],
+            "periodo":"Tarde",
+            "palestras":true,
+            "minicursos":["1"]
+        },
+        {
+            "horario_inicio":"14:00:00",
+            "horario_fim":"18:00:00",
+            "titulo":"Produtividade Total Com Laravel",
+            "evento":"secomp",
+            "pessoas":["3"],
+            "periodo":"Tarde",
+            "palestras":true,
+            "minicursos":["2"]
+        },
+        {
+            "horario_inicio":"14:00:00",
+            "horario_fim":"18:00:00",
+            "titulo":"Animação 2D com Unity3D",
+            "evento":"secomp",
+            "pessoas":["4"],
+            "periodo":"Tarde",
+            "palestras":true,
+            "minicursos":["3"]
+        },
+        {
+            "horario_inicio":"14:00:00",
+            "horario_fim":"18:00:00",
+            "titulo":"Latex",
+            "evento":"secomp",
+            "pessoas":["5"],
+            "periodo":"Tarde",
+            "palestras":true,
+            "minicursos":["4"]
+        }
     ]
 }
 
@@ -318,7 +360,43 @@ caccomp_bd["pessoas"] = {
         "github":false,        
         "facebook":false,
         "lattes":false,
-        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/fulano.jpg",
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "minicursos":["0"],
+        "palestras":["0"],
+        "evento":"secomp"
+    },
+    "3":{
+        "nome":"Ivo Pontes Araújo",
+        "email":"ivopoentes@mail.uft.edu.br",
+        "curso":"Ciência da Computação",
+        "github":false,        
+        "facebook":false,
+        "lattes":false,
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "minicursos":["0"],
+        "palestras":["0"],
+        "evento":"secomp"
+    },
+    "4":{
+        "nome":"Erick Henrique Silva Góes",
+        "email":"erickgoes@mail.uft.edu.br",
+        "curso":"Ciência da Computação",
+        "github":false,        
+        "facebook":false,
+        "lattes":false,
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "minicursos":["0"],
+        "palestras":["0"],
+        "evento":"secomp"
+    },
+    "5":{
+        "nome":"Laura Cristina Gomes Pereira",
+        "email":"lauracristina@mail.uft.edu.br",
+        "curso":"Ciência da Computação",
+        "github":false,        
+        "facebook":false,
+        "lattes":false,
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
         "minicursos":["0"],
         "palestras":["0"],
         "evento":"secomp"
@@ -329,5 +407,28 @@ caccomp_bd["palestras"] = {
     "0":{
         "palestrante":"2",
         "nome":false
+    }
+}
+
+caccomp_bd["minicursos"] = {
+    "0":{
+        "palestrante":"0",
+        "nome":false
+    },
+    "1":{
+        "palestrante":"1",
+        "nome":"GNU/Linux + Git"
+    },
+    "2":{
+        "palestrante":"3",
+        "nome":"Produtividade Total Com Laravel"
+    },
+    "3":{
+        "palestrante":"4",
+        "nome":"Animação 2D com Unity3D"
+    },
+    "4":{
+        "palestrante":"5",
+        "nome":"Latex"
     }
 }

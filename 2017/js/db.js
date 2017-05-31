@@ -7,8 +7,8 @@ caccomp_bd["docs"] = {
 caccomp_bd["dias"] = {
     "15/08/2017":[
         {
-            "horario_inicio":"08:00:00",
-            "horario_fim":"08:30:00",
+            "horario_inicio":"08:00",
+            "horario_fim":"08:30",
             "titulo":"Credenciamento",
             "evento":"secomp",
             "pessoas":["0"],
@@ -18,8 +18,8 @@ caccomp_bd["dias"] = {
         },
 
         {
-            "horario_inicio":"08:30:00",
-            "horario_fim":"09:00:00",
+            "horario_inicio":"08:30",
+            "horario_fim":"09:00",
             "titulo":"Abertura",
             "evento":"secomp",
             "pessoas":["0"],
@@ -29,8 +29,8 @@ caccomp_bd["dias"] = {
         },
 
         {
-            "horario_inicio":"09:00:00",
-            "horario_fim":"10:00:00",
+            "horario_inicio":"09:00",
+            "horario_fim":"10:00",
             "titulo":"Palestra de Abertura",
             "evento":"secomp",
             "pessoas":["0"],
@@ -40,8 +40,8 @@ caccomp_bd["dias"] = {
         },
 
         {
-            "horario_inicio":"10:00:00",
-            "horario_fim":"10:15:00",
+            "horario_inicio":"10:00",
+            "horario_fim":"10:15",
             "titulo":"Café Regional",
             "evento":"secomp",
             "pessoas":["0"],
@@ -51,8 +51,8 @@ caccomp_bd["dias"] = {
         },
 
         {
-            "horario_inicio":"10:15:00",
-            "horario_fim":"11:00:00",
+            "horario_inicio":"10:15",
+            "horario_fim":"11:00",
             "titulo":"Sessão Tecnica I",
             "evento":"secomp",
             "pessoas":["0"],
@@ -62,8 +62,8 @@ caccomp_bd["dias"] = {
         },
 
         {
-            "horario_inicio":"11:00:00",
-            "horario_fim":"12:00:00",
+            "horario_inicio":"11:00",
+            "horario_fim":"12:00",
             "titulo":"Palestra II",
             "evento":"secomp",
             "pessoas":["0"],
@@ -73,8 +73,8 @@ caccomp_bd["dias"] = {
         },
 
         {
-            "horario_inicio":"12:00:00",
-            "horario_fim":"14:00:00",
+            "horario_inicio":"12:00",
+            "horario_fim":"14:00",
             "titulo":"Intervalo pro Almoço",
             "evento":"secomp",
             "pessoas":false,
@@ -84,8 +84,8 @@ caccomp_bd["dias"] = {
         },
 
         {
-            "horario_inicio":"14:00:00",
-            "horario_fim":"18:00:00",
+            "horario_inicio":"14:00",
+            "horario_fim":"18:00",
             "titulo":"Minicursos",
             "evento":"secomp",
             "pessoas":false,
@@ -95,8 +95,8 @@ caccomp_bd["dias"] = {
         },
 
         {
-            "horario_inicio":"18:00:00",
-            "horario_fim":"19:00:00",
+            "horario_inicio":"18:00",
+            "horario_fim":"19:00",
             "titulo":"Intervalo pro Jantar",
             "evento":"secomp",
             "pessoas":false,
@@ -106,8 +106,8 @@ caccomp_bd["dias"] = {
         },
 
         {
-            "horario_inicio":"19:00:00",
-            "horario_fim":"22:30:00",
+            "horario_inicio":"19:00",
+            "horario_fim":"22:30",
             "titulo":"GameNight",
             "evento":"secomp",
             "pessoas":["0"],
@@ -119,8 +119,8 @@ caccomp_bd["dias"] = {
 
     "16/08/2017":[
             {
-                "horario_inicio":"08:30:00",
-                "horario_fim":"09:00:00",
+                "horario_inicio":"08:30",
+                "horario_fim":"09:00",
                 "titulo":"Palestra",
                 "evento":"secomp",
                 "pessoas":["0"],
@@ -130,8 +130,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"09:00:00",
-                "horario_fim":"10:00:00",
+                "horario_inicio":"09:00",
+                "horario_fim":"10:00",
                 "titulo":"Palestra IV",
                 "evento":"secomp",
                 "pessoas":["0"],
@@ -141,8 +141,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"10:00:00",
-                "horario_fim":"10:15:00",
+                "horario_inicio":"10:00",
+                "horario_fim":"10:15",
                 "titulo":"Café Regional",
                 "evento":"secomp",
                 "pessoas":["0"],
@@ -152,8 +152,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"10:15:00",
-                "horario_fim":"12:00:00",
+                "horario_inicio":"10:15",
+                "horario_fim":"12:00",
                 "titulo":"Sessão Tecnica II",
                 "evento":"secomp",
                 "pessoas":["0"],
@@ -163,8 +163,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"12:00:00",
-                "horario_fim":"14:00:00",
+                "horario_inicio":"12:00",
+                "horario_fim":"14:00",
                 "titulo":"Intervalo pro Almoço",
                 "evento":"secomp",
                 "pessoas":false,
@@ -174,8 +174,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"14:00:00",
-                "horario_fim":"18:00:00",
+                "horario_inicio":"14:00",
+                "horario_fim":"18:00",
                 "titulo":"Minicursos",
                 "evento":"secomp",
                 "pessoas":false,
@@ -185,8 +185,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"18:00:00",
-                "horario_fim":"19:00:00",
+                "horario_inicio":"18:00",
+                "horario_fim":"19:00",
                 "titulo":"Intervalo pro Jantar",
                 "evento":"secomp",
                 "pessoas":false,
@@ -196,8 +196,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"19:00:00",
-                "horario_fim":"22:30:00",
+                "horario_inicio":"19:00",
+                "horario_fim":"22:30",
                 "titulo":"GameNight",
                 "evento":"secomp",
                 "pessoas":["0"],
@@ -209,8 +209,8 @@ caccomp_bd["dias"] = {
 
     "17/08/2017":[
             {
-                "horario_inicio":"08:30:00",
-                "horario_fim":"10:00:00",
+                "horario_inicio":"08:30",
+                "horario_fim":"10:00",
                 "titulo":"Palestra V",
                 "evento":"secomp",
                 "pessoas":["0"],
@@ -220,8 +220,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"10:00:00",
-                "horario_fim":"10:15:00",
+                "horario_inicio":"10:00",
+                "horario_fim":"10:15",
                 "titulo":"Café Regional",
                 "evento":"secomp",
                 "pessoas":["0"],
@@ -231,8 +231,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"10:15:00",
-                "horario_fim":"12:00:00",
+                "horario_inicio":"10:15",
+                "horario_fim":"12:00",
                 "titulo":"Sessão Tecnica III",
                 "evento":"secomp",
                 "pessoas":["0"],
@@ -242,8 +242,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"12:00:00",
-                "horario_fim":"14:00:00",
+                "horario_inicio":"12:00",
+                "horario_fim":"14:00",
                 "titulo":"Intervalo pro Almoço",
                 "evento":"secomp",
                 "pessoas":false,
@@ -253,8 +253,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"14:00:00",
-                "horario_fim":"18:00:00",
+                "horario_inicio":"14:00",
+                "horario_fim":"18:00",
                 "titulo":"Minicursos",
                 "evento":"secomp",
                 "pessoas":false,
@@ -264,8 +264,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"18:00:00",
-                "horario_fim":"19:00:00",
+                "horario_inicio":"18:00",
+                "horario_fim":"19:00",
                 "titulo":"Intervalo pro Jantar",
                 "evento":"secomp",
                 "pessoas":false,
@@ -275,8 +275,8 @@ caccomp_bd["dias"] = {
             },
 
             {
-                "horario_inicio":"19:00:00",
-                "horario_fim":"22:30:00",
+                "horario_inicio":"19:00",
+                "horario_fim":"22:30",
                 "titulo":"GameNight",
                 "evento":"secomp",
                 "pessoas":["0"],
@@ -287,8 +287,8 @@ caccomp_bd["dias"] = {
     ],
     "Minicursos":[
         {
-            "horario_inicio":"14:00:00",
-            "horario_fim":"18:00:00",
+            "horario_inicio":"14:00",
+            "horario_fim":"18:00",
             "titulo":"GNU/Linux + Git",
             "evento":"secomp",
             "pessoas":["1"],
@@ -297,8 +297,8 @@ caccomp_bd["dias"] = {
             "minicursos":["1"]
         },
         {
-            "horario_inicio":"14:00:00",
-            "horario_fim":"18:00:00",
+            "horario_inicio":"14:00",
+            "horario_fim":"18:00",
             "titulo":"Produtividade Total Com Laravel",
             "evento":"secomp",
             "pessoas":["3"],
@@ -307,8 +307,8 @@ caccomp_bd["dias"] = {
             "minicursos":["2"]
         },
         {
-            "horario_inicio":"14:00:00",
-            "horario_fim":"18:00:00",
+            "horario_inicio":"14:00",
+            "horario_fim":"18:00",
             "titulo":"Animação 2D com Unity3D",
             "evento":"secomp",
             "pessoas":["4"],
@@ -317,8 +317,8 @@ caccomp_bd["dias"] = {
             "minicursos":["3"]
         },
         {
-            "horario_inicio":"14:00:00",
-            "horario_fim":"18:00:00",
+            "horario_inicio":"14:00",
+            "horario_fim":"18:00",
             "titulo":"Latex",
             "evento":"secomp",
             "pessoas":["5"],

@@ -338,7 +338,7 @@ caccomp_bd["pessoas"] = {
         "facebook":"",
         "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/paulo.jpg",
         "minicursos":["0"],
-        "palestras":["0"],
+        "palestras":false,
         "evento":"secomp"
     },
     "1":{                      
@@ -349,8 +349,8 @@ caccomp_bd["pessoas"] = {
         "facebook":false,
         "lattes":false,
         "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
-        "minicursos":["0"],
-        "palestras":["0"],
+        "minicursos":["1"],
+        "palestras":false,
         "evento":"secomp"
     },
     "2":{
@@ -361,9 +361,9 @@ caccomp_bd["pessoas"] = {
         "facebook":false,
         "lattes":false,
         "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
-        "minicursos":["0"],
+        "minicursos":false,
         "palestras":["0"],
-        "evento":"secomp"
+        "evento":"saee"
     },
     "3":{
         "nome":"Ivo Pontes Araújo",
@@ -373,8 +373,8 @@ caccomp_bd["pessoas"] = {
         "facebook":false,
         "lattes":false,
         "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
-        "minicursos":["0"],
-        "palestras":["0"],
+        "minicursos":["2"],
+        "palestras":false,
         "evento":"secomp"
     },
     "4":{
@@ -385,8 +385,8 @@ caccomp_bd["pessoas"] = {
         "facebook":false,
         "lattes":false,
         "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
-        "minicursos":["0"],
-        "palestras":["0"],
+        "minicursos":["3"],
+        "palestras":false,
         "evento":"secomp"
     },
     "5":{
@@ -397,11 +397,88 @@ caccomp_bd["pessoas"] = {
         "facebook":false,
         "lattes":false,
         "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
-        "minicursos":["0"],
-        "palestras":["0"],
+        "minicursos":["4"],
+        "palestras":false,
+        "evento":"secomp"
+    },
+    "6":{
+        "nome":"Timóteo Holanda da Silva Sousa",
+        "email":"timoteohss@mail.uft.edu.br",
+        "curso":"Ciência da Computação",
+        "github":false,        
+        "facebook":false,
+        "lattes":false,
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "minicursos":["5"],
+        "palestras":false,
+        "evento":"secomp"
+    },
+    "7":{
+        "nome":"Larissa Cristina Oliveira de Souza",
+        "email":"leurissy@mail.uft.edu.br",
+        "curso":"Ciência da Computação",
+        "github":false,        
+        "facebook":false,
+        "lattes":false,
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "minicursos":false,
+        "palestras":false,
+        "evento":"secomp"
+    },
+    "8":{
+        "nome":"Caio Machado",
+        "email":"caio.machado@mail.uft.edu.br",
+        "curso":"Ciência da Computação",
+        "github":false,        
+        "facebook":false,
+        "lattes":false,
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "minicursos":false,
+        "palestras":false,
+        "evento":"secomp"
+    },
+    "9":{
+        "nome":"Bruna Holanda Cunha",
+        "email":"brunaholandacunha@mail.uft.edu.br",
+        "curso":"Ciência da Computação",
+        "github":false,        
+        "facebook":false,
+        "lattes":false,
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "minicursos":false,
+        "palestras":false,
+        "evento":"secomp"
+    },
+    "10":{
+        "nome":"Jhoanatta Rodrigues Silva",
+        "email":"leurissy@mail.uft.edu.br",
+        "curso":"Ciência da Computação",
+        "github":false,        
+        "facebook":false,
+        "lattes":false,
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "minicursos":false,
+        "palestras":false,
+        "evento":"secomp"
+    },
+    "11":{
+        "nome":"Thiago Silva Pereira",
+        "email":"thiago_lucky@mail.uft.edu.br",
+        "curso":"Ciência da Computação",
+        "github":false,        
+        "facebook":false,
+        "lattes":false,
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "minicursos":false,
+        "palestras":false,
         "evento":"secomp"
     }
 }
+
+caccomp_bd["org"] = ["0", "1", "7", "8", "9", "10", "11"];
+
+caccomp_bd["palestrantes"] = ["0", "1", "2", "3", "4", "5"];
+
 
 caccomp_bd["palestras"] = {
     "0":{
@@ -430,5 +507,9 @@ caccomp_bd["minicursos"] = {
     "4":{
         "palestrante":"5",
         "nome":"Latex"
+    },
+    "5":{
+        "palestrante":"6",
+        "nome":"Programação visual com p5.js"
     }
 }

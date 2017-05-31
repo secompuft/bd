@@ -237,7 +237,6 @@ caccomp_bd["dias"] = {
                 "palestras":true,
                 "minicursos":false
             },
-
             {
                 "horario_inicio":"10:00",
                 "horario_fim":"10:15",
@@ -249,7 +248,6 @@ caccomp_bd["dias"] = {
                 "palestras":false,
                 "minicursos":false
             },
-
             {
                 "horario_inicio":"10:15",
                 "horario_fim":"12:00",
@@ -261,7 +259,6 @@ caccomp_bd["dias"] = {
                 "palestras":false,
                 "minicursos":false
             },
-
             {
                 "horario_inicio":"12:00",
                 "horario_fim":"14:00",
@@ -273,7 +270,6 @@ caccomp_bd["dias"] = {
                 "palestras":false,
                 "minicursos":false
             },
-
             {
                 "horario_inicio":"14:00",
                 "horario_fim":"18:00",
@@ -285,19 +281,17 @@ caccomp_bd["dias"] = {
                 "palestras":false,
                 "minicursos":true
             },
-
             {
                 "horario_inicio":"18:00",
                 "horario_fim":"19:00",
                 "titulo":"Intervalo pro Jantar",
-                "local":false
+                "local":false,
                 "evento":"secomp",
                 "pessoas":false,
                 "periodo":" ",
                 "palestras":false,
                 "minicursos":false
             },
-
             {
                 "horario_inicio":"19:00",
                 "horario_fim":"22:30",

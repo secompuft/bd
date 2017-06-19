@@ -526,7 +526,7 @@ caccomp_bd["pessoas"] = {
         "minicursos":false,
         "palestras":false,
         "evento":"secomp"
-    }
+    },
     "11":{
         "nome":"Ildo Bet - PHB Solar",
         "email":false,

@@ -12,7 +12,7 @@ caccomp_bd["dias"] = {
             "titulo":"Credenciamento",
             "local":"CUICA",
             "evento":"secomp",
-            "pessoas":["org"],
+            "pessoas":false,
             "periodo":"Manhã",
             "palestras":false,
             "minicursos":false
@@ -24,7 +24,7 @@ caccomp_bd["dias"] = {
             "titulo":"Sessão de Abertura",
             "local":"CUICA",
             "evento":"seelto",
-            "pessoas":["Eng. Eletrica"],
+            "pessoas":false,
             "periodo":"Noite",
             "palestras":false,
             "minicursos":false
@@ -36,7 +36,7 @@ caccomp_bd["dias"] = {
             "titulo":"Apresentação Cultural",
             "local":"CUICA",
             "evento":"seelto",
-            "pessoas":["Eng. Eletrica"],
+            "pessoas":false,
             "periodo":"Noite",
             "palestras":false,
             "minicursos":false
@@ -60,7 +60,7 @@ caccomp_bd["dias"] = {
             "titulo":"Coquetel de Boas Vindas ",
             "local":"CUICA",
             "evento":"saeel",
-            "pessoas":["org"],
+            "pessoas":false,
             "periodo":"Noite",
             "palestras":false,
             "minicursos":false
@@ -673,7 +673,7 @@ caccomp_bd["pessoas"] = {
     }
 }
 
-caccomp_bd["org"] = ["0", "1", "6", "7", "8", "9", "10"];
+caccomp_bdfalse;
 
 caccomp_bd["palestrantes"] = ["0", "1", "2", "3", "4", "5", "11", "12", "13","14","15","16","17","18","19","20","21","22"];
 

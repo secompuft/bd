@@ -403,7 +403,7 @@ caccomp_bd["pessoas"] = {
         "github":"paulorobertocruz",        
         "facebook":"",
         "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/paulo.jpg",
-        "minicursos":["0"],
+        "minicursos":false,
         "palestras":false,
         "evento":"secomp"
     },

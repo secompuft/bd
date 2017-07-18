@@ -354,7 +354,7 @@ caccomp_bd["dias"] = {
             "titulo":"Produtividade Total Com Laravel",
             "local":"Labin 12 - Bloco III",
             "evento":"secomp",
-            "pessoas":["3"],
+            "pessoas":["2"],
             "periodo":"Tarde",
             "palestras":true,
             "minicursos":["2"]
@@ -365,7 +365,7 @@ caccomp_bd["dias"] = {
             "titulo":"Animação 2D com Unity3D",
             "local":"Labin 10 - Bloco III",
             "evento":"secomp",
-            "pessoas":["4"],
+            "pessoas":["3"],
             "periodo":"Tarde",
             "palestras":true,
             "minicursos":["3"]
@@ -376,7 +376,7 @@ caccomp_bd["dias"] = {
             "titulo":"Latex",
             "local":"Labin 09 - Bloco III",
             "evento":"secomp",
-            "pessoas":["5"],
+            "pessoas":["4"],
             "periodo":"Tarde",
             "palestras":true,
             "minicursos":["4"]
@@ -387,7 +387,7 @@ caccomp_bd["dias"] = {
             "titulo":"Programação visual com p5.js",
             "local":"Labin 15 - Bloco III",
             "evento":"secomp",
-            "pessoas":["6"],
+            "pessoas":["5"],
             "periodo":"Tarde",
             "palestras":true,
             "minicursos":["5"]

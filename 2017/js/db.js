@@ -450,7 +450,7 @@ caccomp_bd["pessoas"] = {
         "github":false,        
         "facebook":false,
         "lattes":false,
-        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/avatar.jpg",
+        "imagem-perfil":"http://secompuft.github.io/bd/2017/img/pessoas/laura_secomp.jpg",
         "minicursos":["4"],
         "palestras":false,
         "evento":"secomp"
